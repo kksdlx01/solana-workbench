@@ -4,14 +4,9 @@ Solana Workbench is your one stop shop for local Solana development.
 
 Deploy local validators, airdrop tokens, and more with its GUI on OSX and Windows.
 Solana development may be like chewing glass today, but we’re on a mission to change
-that forever.
+that forever
 
-## Build dependencies
 
-If you already have Node on your system (we recommend version 17), you can
-install the Node deps like so:
-
-```
 $ npm install
 ```
 
